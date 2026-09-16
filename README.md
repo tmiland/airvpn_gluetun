@@ -1,4 +1,6 @@
 # Description:
+[![Sponsor @tmiland](https://img.shields.io/badge/Sponsor-%40tmiland-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tmiland)
+
 This script selects the best Wireguard AirVPN server located in a specific country 
 (default: Netherlands) by evaluating server load and avoiding exit nodes 
 from the Tor network. Optionally, it also checks each IP with 
